@@ -1,0 +1,38 @@
+body {
+  font-family: Arial;
+  color: #333;
+  padding: 50px;
+  line-height: 1.5em;
+}
+
+#startgame,
+button {
+  border-radius: 5px;
+  border: none;
+  background-color: cadetblue;
+  padding: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+div {
+  padding: 20px;
+}
+
+#gamecontrol,
+#score {
+  background-color: aliceblue;
+}
+
+#game {
+  background-color: #eaeaea;
+}
+#actions {
+  background-color: silver;
+}
+
+.info {
+  background-color: cadetblue;
+  margin-bottom: 1rem;
+  border-radius: 7px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
